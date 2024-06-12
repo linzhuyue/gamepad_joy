@@ -8,3 +8,6 @@
 "stick_lx", "stick_ly", "stick_rx", "stick_ry",
 "trigger_lt", "trigger_rt", "dpad_xx", "dpad_yy"
 ```
+
+## Joystick
+![alt_text](./misc/joystick.png)
