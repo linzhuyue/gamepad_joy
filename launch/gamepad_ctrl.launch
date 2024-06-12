@@ -1,0 +1,5 @@
+<launch>
+
+<node name="joy_stats_pub" pkg="gamepad_ctrl" type="joy_stats_pub" respawn="false" output="screen"/>
+
+</launch>
